@@ -10,7 +10,7 @@
 	  	<div id="main_body" class="container">
     		<div class="row">
     			<div class="col-md-8 margin-top50">
-    				<h1 class="text-white font-80px text-center"><b>Get the best Mangoes at the cheapest price from Mangola</b></h1>   				
+    				<h1 class="text-white font-80px text-center"><b>AWS Project Deployed by Getting Source code from GitHub</b></h1>   				
     			</div>
 
     			<div class="col-md-4 margin-top50">
